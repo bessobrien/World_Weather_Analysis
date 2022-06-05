@@ -2,9 +2,9 @@
 config.py
 
 # Adding additional files.
-API_practice.ipynb_checkpoints
-random.Numbers.ipynb_checkpoints
-Untitled.ipynb_checkpoints
+API_practice.ipynb
+random.Numbers.ipynb
+Untitled.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
